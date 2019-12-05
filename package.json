@@ -16,5 +16,12 @@
   "bugs": {
     "url": "https://github.com/Thaore/AdventCalendar-api/issues"
   },
-  "homepage": "https://github.com/Thaore/AdventCalendar-api#readme"
+  "homepage": "https://github.com/Thaore/AdventCalendar-api#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "express-fileupload": "^1.1.6",
+    "formidable": "^1.2.1",
+    "mysql": "^2.17.1"
+  }
 }
